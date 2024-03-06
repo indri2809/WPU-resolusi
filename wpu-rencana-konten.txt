@@ -2,7 +2,10 @@ RENCANA KONTEN WPU
 - javascript
   *ES6
   *ferm woark
+  ^angular
+  ^react
 - stuktur data dasar
 - php reamwoark
+  *laravel
 - interview
 - vlogs
